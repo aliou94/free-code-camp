@@ -1,11 +1,4 @@
-// Create a function that takes two or more arrays and returns an array of their symmetric difference. The returned array must contain only unique values (no duplicates).
-
-// starter code
-// function sym(args) {
-//     return args;
-//   }
-  
-//   sym([1, 2, 3], [5, 2, 1, 4]);
+// https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/find-the-symmetric-difference
 
 
 function sym() {
